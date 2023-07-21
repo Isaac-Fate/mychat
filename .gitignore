@@ -1,0 +1,49 @@
+# MacOS
+**/.DS_Store
+
+# Python
+**/__pycache__
+
+# Jupyter Notebook
+**/.ipynb_checkpoints
+
+# Jupyter Book
+**/_build
+
+# playground
+/playground
+
+# large data dir
+/data
+
+# temporary directory
+/tmp
+
+# output directory
+/out
+
+# some additional files to ignore
+write.py 
+writer_server.py
+dummy_server.py
+
+# secret configuration files
+.env
+config.toml
+
+# auxiliary files when compiling LaTeX 
+**/*.aux
+**/*.bbl
+**/*.bcf
+**/*.blg
+**/*.fdb_latexmk
+**/*.fls
+**/*.log
+**/*.out
+**/*.run.xml
+**/*.synctex.gz
+**/*.toc
+**/*.idx
+**/*.ind
+**/*.ilg
+**/*.log
