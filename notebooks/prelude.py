@@ -2,7 +2,7 @@ import sys
 sys.path.append("../")
 
 from dotenv import load_dotenv
-load_dotenv("../.env")
+load_dotenv("../.env", override=True)
 
 import os
 import openai

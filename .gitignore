@@ -47,3 +47,6 @@ config.toml
 **/*.ind
 **/*.ilg
 **/*.log
+
+# Temperary files to ignore
+test.py
